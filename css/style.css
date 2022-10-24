@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.row {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.blue {
+    background-color: blue;
+}
+.green {
+    background-color: green;
+}
+.pad-5 {
+    padding: 5px;
+}
